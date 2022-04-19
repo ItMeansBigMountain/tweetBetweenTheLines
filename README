@@ -1,0 +1,18 @@
+
+
+
+fetchTweets.py - push fetch from tweets timestamp id as far back as twitter api allows us.
+
+findWords_Chart.py - look up public twitter username and 4 words you would like to search for... builds pieChart
+
+trendFinder.py - looks up most used topics today queried by WOEID
+
+tweetBetweenTheLines.py - Text blob sentiment analysis for all tweets then averaged together. Displays barChart
+
+TweetListener.py - Python class Object() - import into code for threaded streaming json file output!
+
+TWEETsearch.py - Early understanding of python arrays in order to populate array[] with user tweets 
+TWEETsearch.2022.py - Latest model to return json{}
+
+
+twitterTopHashtag.JWT.py - HTTPS requests tecnique to capture top hashtags GREAT EXAMPLE OF HTTPS JSON WEB TOKEN
